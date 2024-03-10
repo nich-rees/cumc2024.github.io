@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://cumc-ubc.ca/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Canadian Undergraduate Mathematics Conference 2024'
 theme = 'ananke'
