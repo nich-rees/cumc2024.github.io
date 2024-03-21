@@ -9,7 +9,7 @@ background_color_class = 'bg-green'
   featured_image = '/images/main-pic.jpg'
 +++
 
-Welcome to the CUMC 2024 website, hosted at the University of British Columbia in the beautiful Vancouver, British Columbia.
+Welcome to the CUMC 2024 website, planned to be hosted at the University of British Columbia in the beautiful Vancouver, British Columbia.
 If you're seeing this page, this means you're interested. Please bear with us while we get the website up and running. 
 The conference is planned to be set from July 8th until July 12th 2024.
 
