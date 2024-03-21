@@ -3,8 +3,10 @@ languageCode = 'en-ca'
 title = 'CUMC at UBC'
 theme = 'ananke'
 [params]
-    subtitle = 'The greatest mathematics conference of the 21st century.'
+  site_logo = 'images/CUMC_logo.png'
+  subtitle = 'The greatest mathematics conference of the 21st century.'
   [params.contact]
     email = 'info@example.org'
     phone = '+1 202-555-121'
+  
 
