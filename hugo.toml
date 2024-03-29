@@ -22,7 +22,7 @@ theme = 'ananke'
     weight = 2
 
   [[menu.main]]
-    identifier = "connect"
-    name = "Connect"
-    url = "/connect/"
+    identifier = "vis-guide"
+    name = "Visitor's Guide"
+    url = "/visitors-guide/"
     weight = 3
