@@ -8,5 +8,21 @@ theme = 'ananke'
   [params.contact]
     email = 'info@example.org'
     phone = '+1 202-555-121'
-  
+[menu]
+  [[menu.main]]
+    identifier = "schedule"
+    name = "Schedule"
+    url = "/#schedule"
+    weight = 1
 
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "connect"
+    name = "Connect"
+    url = "/connect/"
+    weight = 3
