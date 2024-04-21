@@ -1,28 +1,75 @@
 baseURL = 'https://cumc-ubc.ca/'
-languageCode = 'en-ca'
-title = 'CUMC at UBC'
 theme = 'ananke'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+
 [params]
   site_logo = 'images/CUMC_logo.png'
-  subtitle = 'The greatest mathematics conference of the 21st century.'
   [params.contact]
     email = 'info@example.org'
     phone = '+1 202-555-121'
-[menu]
-  [[menu.main]]
-    identifier = "schedule"
-    name = "Schedule"
-    url = "/#schedule"
+
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-ca'
+    languageDirection = 'ltr'
+    languageName = 'English'
     weight = 1
+    title = 'CUMC at UBC'
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    [languages.en.params]
+      subtitle = 'The greatest mathematics conference of the 21st century.'
+    
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "schedule"
+        name = "Schedule"
+        url = "/en/#schedule"
+        weight = 10
+      [[languages.en.menu.main]]
+        identifier = "about"
+        url = "/en/about/"
+        name = "About CUMC"
+        weight = 20
+      [[languages.en.menu.main]]
+        identifier = "vis-guide"
+        name = "Visitor's Guide"
+        url = "/en/visitors-guide/"
+        weight = 30
+
+  [languages.fr]
+    contentDir = 'content/fr'
+    disabled = false
+    languageCode = 'fr'
+    languageDirection = 'ltr'
+    languageName = 'French'
     weight = 2
+    title = 'CCÉM à UBC'
 
-  [[menu.main]]
-    identifier = "vis-guide"
-    name = "Visitor's Guide"
-    url = "/visitors-guide/"
-    weight = 3
+    [languages.fr.params]
+      subtitle = 'La plus grande conférence de mathématiques du 21e siècle.'
+    
+    [languages.fr.menu]
+      [[languages.fr.menu.main]]
+        identifier = "schedule"
+        name = "Programme"
+        url = "/fr/#programme"
+        weight = 10
+
+      [[languages.fr.menu.main]]
+        identifier = "about"
+        name = "À propos de CCÉM"
+        url = "/fr/about/"
+        weight = 20
+
+      [[languages.fr.menu.main]]
+        identifier = "vis-guide"
+        name = "Guide du Visiteur"
+        url = "/fr/visitors-guide/"
+        weight = 30
+
+
