@@ -19,7 +19,7 @@ defaultContentLanguageInSubdir = true
     languageDirection = 'ltr'
     languageName = 'English'
     weight = 1
-    title = 'CUMC at UBC'
+    title = 'Canadian Undergraduate Math conference at UBC'
 
     [languages.en.params]
       subtitle = 'The greatest mathematics conference of the 21st century.'
@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = true
     languageDirection = 'ltr'
     languageName = 'French'
     weight = 2
-    title = 'CCÉM à UBC'
+    title = 'Conférence Canadien des Étudiants en Mathematics à UBC'
 
     [languages.fr.params]
       subtitle = 'La plus grande conférence de mathématiques du 21e siècle.'
