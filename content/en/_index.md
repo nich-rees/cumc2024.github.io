@@ -3,7 +3,6 @@ date = '2024-03-20T16:39:15-07:00'
 title = 'CUMC 2024'
 
 description = ' "The greatest mathematics conference of the 21st century." - David Hilbert<br><br>Hosted at UBC.'
-background_color_class = 'bg-green'
 
 [cascade]
   featured_image = '/images/main-pic.jpg'
@@ -18,19 +17,6 @@ You can find registration [here](https://portal.cms.math.ca/mrm/events/EventDeta
 
 ## Schedule {#schedule}
 
-| _TIME_          	| **Monday**              	| **Tuesday**          	| **Wednesday**             	| **Thursday**         	| **Friday**                   	|
-|-----------------	|-------------------------	|----------------------	|---------------------------	|----------------------	|------------------------------	|
-| **8:00-9:00**   	|                         	|  Coffee & Snacks     	|  Coffee & Snacks          	|  Coffee & Snacks     	| Time to Move  Out            	|
-| **9:00-10:00**  	|                         	| Student Talks        	| Student Talks             	| Student Talks        	| (ctd.)                       	|
-| **10:00-11:00** 	|                         	| Student Talks (end.) 	| Student Talks (end.)      	| Student Talks (end.) 	| Time to Move Out (end.)      	|
-| **11:00-12:00** 	|                         	| Keynote              	| Keynote                   	| Keynote              	| Keynote                      	|
-| **12:00-13:00** 	| Registration            	| Lunch                	| Lunch & Grad  Coffee Chat 	| Lunch                	| Closing Remarks  & Giveaways 	|
-| **13:00-14:00** 	| (ctd.)                  	| Women In Math  Panel 	|                           	| Putnam Session       	|                              	|
-| **14:00-15:00** 	| Opening Remarks         	| Keynote              	| Keynote                   	| Keynote              	|                              	|
-| **15:00-16:00** 	| Keynote                 	| Student Talks        	| Student Talks             	| Student Talks        	|                              	|
-| **16:00-17:00** 	| Free Time/Campus Tours  	| Student Talks (end.) 	| Student Talks (end.)      	| Student Talks (end.) 	|                              	|
-| **17:00-18:00** 	| (ctd.)                  	|                      	|                           	|                      	|                              	|
-| **18:00-19:00** 	| Beach BBQ Social        	| Dinner               	|                           	|                      	|                              	|
-| **19:00-20:00** 	| (ctd.)                  	| Social               	|                           	|                      	|                              	|
-| **20:00-21:00** 	| Beach BBQ Social (end.) 	| Social (end.)        	|                           	| Gala Dinner          	|                              	|
-| **21:00-22:00** 	|                         	|                      	|                           	| Gala Dinner  (ctd.)  	|                              	|
+{{< figure src="/images/schedule.png" width=1000 >}}
+
+A more comprehensive schedule will be up shortly.
