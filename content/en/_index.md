@@ -17,6 +17,6 @@ You can find registration [here](https://portal.cms.math.ca/mrm/events/EventDeta
 
 ## Schedule {#schedule}
 
-{{< figure src="/images/schedule.png" width=1000 >}}
+{{< agenda >}}
 
 A more comprehensive schedule will be up shortly.
