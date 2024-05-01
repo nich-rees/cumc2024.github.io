@@ -48,10 +48,10 @@ defaultContentLanguageInSubdir = true
     languageDirection = 'ltr'
     languageName = 'French'
     weight = 2
-    title = 'Conférence Canadien des Étudiants en Mathematics à UBC'
+    title = 'Congrès Canadien des Étudiants en Mathematics à UBC'
 
     [languages.fr.params]
-      subtitle = 'La plus grande conférence de mathématiques du 21e siècle.'
+      subtitle = 'La plus grande congrès de mathématiques du 21e siècle.'
     
     [languages.fr.menu]
       [[languages.fr.menu.main]]
