@@ -1,6 +1,6 @@
 +++
 title = 'Our Friend the Transpose'
-date = 2024-05-13T14:46:39-07:00
+date = 2024-07-11T11:00:00-07:00
 katex = true
 draft = true
 [cascade]

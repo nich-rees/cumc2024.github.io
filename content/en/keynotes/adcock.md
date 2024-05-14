@@ -1,6 +1,6 @@
 +++
 title = 'Adcock'
-date = 2024-05-13T15:10:57-07:00
+date = 2024-07-10T11:00:00-07:00
 katex = true
 draft = true
 [cascade]
