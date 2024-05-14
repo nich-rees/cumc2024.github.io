@@ -7,7 +7,7 @@ draft = true
   featured_image = ''
 +++
 
-This is a keynote hosted by Peter Dukes.
+This page is for the keynote presentation by Dr. Peter Dukes.
 
 ### Abstract
 
