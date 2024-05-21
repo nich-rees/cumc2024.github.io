@@ -2,12 +2,14 @@
 date = '2024-03-20T16:39:15-07:00'
 title = 'CUMC 2024'
 
-description = ' "The greatest mathematics conference of the 21st century." - David Hilbert<br><br>Hosted at UBC.'
+description = '"The greatest mathematics conference of the 21st century." - David Hilbert<br><br>Hosted at UBC.<br><br> <button type="reg-button" name="register">Register Now!</button>'
 
 [cascade]
   featured_image = '/images/main-pic.jpg'
-
+  
 +++
+
+{{< registration-button >}}
 
 Welcome to the CUMC 2024 website, planned to be hosted at the University of British Columbia in the beautiful Vancouver, British Columbia.
 If you're seeing this page, this means you're interested. Please bear with us while we get the website up and running.
