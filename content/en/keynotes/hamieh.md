@@ -13,7 +13,7 @@ This page is for the keynote presentation by Dr. Aliah Hamieh.
 An L-function \\( L(s,X) \\) is a meromorphic function on the complex plane
 that is usually associated with an object \\( X \\) of arithmetic, algebraic or
 geometric nature. A central theme in analytic number theory is to understand
-the behavior of L-functions inside the critical strip \\( 0 < Re(s) < 1 \\). The
+the behavior of L-functions inside the critical strip \\( 0 < \text{Re}(s) < 1 \\). The
 generalized Lindelöf Hypothesis is a statement about the size of L-functions in
 the critical strip, and it motivates the study of moments of L-functions as a
 crucial tool for investigation. In fact, establishing asymptotic formulae for
