@@ -26,9 +26,9 @@ defaultContentLanguageInSubdir = true
     
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "schedule"
-        name = "Schedule"
-        url = "/en/#schedule"
+        identifier = "pre-cumc"
+        name = "pre-CUMC"
+        url = "/en/pre-cumc"
         weight = 10
       [[languages.en.menu.main]]
         identifier = "about"
@@ -55,9 +55,9 @@ defaultContentLanguageInSubdir = true
     
     [languages.fr.menu]
       [[languages.fr.menu.main]]
-        identifier = "schedule"
-        name = "Programme"
-        url = "/fr/#programme"
+        identifier = "pre-cumc"
+        name = "pré-CCÉM"
+        url = "/fr/pre-cumc"
         weight = 10
 
       [[languages.fr.menu.main]]
