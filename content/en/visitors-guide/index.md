@@ -43,7 +43,7 @@ date = 2024-03-20T18:16:46-07:00
 - [Queen Elizabeth Park](https://maps.app.goo.gl/oHVZZwTgYzYYsgZ17)
 - [Capilano Suspension Bridge Park](https://maps.app.goo.gl/JCBMBrKBJCN5Lubt5): Very pretty place, but it has a hefty entrance fee. It is also pretty far from UBC campus, so this is more of a weekend day trip.
 - [Lynn Canyon Suspension Bridge](https://maps.app.goo.gl/6vaGtAFnXGSdLkq56): Another place to hike that has a suspension bridge, but it is completely free. This is also pretty far, and would be a weekend day trip.
-- [Whistler](): This is a very popular hiking spot a few hours out from Vancouver by car. The village in Whistler is accessible via a shuttle that connects from Downtown. However, the village is not particularly well connected to some of the cooler hikes.
+- Whistler: This is a very popular hiking spot a few hours out from Vancouver by car. The village in Whistler is accessible via a shuttle that connects from Downtown. However, the village is not particularly well connected to some of the cooler hikes.
 - Squamish: Another popular hiking spot, which is also a couple hour long drive from Vancouver.
 - [Wreck Beach](https://maps.app.goo.gl/kUxECQ6sDhtciWHR6): UBC’s very own beach. DISCLAIMER: This is a nude beach; if this is not something you are comfortable with, we suggest avoiding it.
 - [Locarno Beach](https://maps.app.goo.gl/11vsHYUiJkVWFR5Z6)/[Jericho Beach](https://maps.app.goo.gl/ZsaVaXHLsDd5yeEq7)
