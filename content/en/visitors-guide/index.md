@@ -21,16 +21,17 @@ date = 2024-03-20T18:16:46-07:00
 ### Fun things to do in Vancouver
 
 - [Vancouver Aquarium](https://maps.app.goo.gl/PUrMcmrbctmDpukQA)
-- [Vancouver Art Gallery](https://maps.app.goo.gl/X4gQW2jnYPXMPJqVA- [Granville Island](https://maps.app.goo.gl/TQoBYhFqcd1QyizD7): This place is considered as a bit of a tourist trap, but it has some nice food, and the views are great.)
+- [Vancouver Art Gallery](https://maps.app.goo.gl/Eq25qMnZy4CrF88W6) [Granville Island](https://maps.app.goo.gl/TQoBYhFqcd1QyizD7): This place is considered as a bit of a tourist trap, but it has some nice food, and the views are great.
 - [Khatsahlano Street Party](https://maps.app.goo.gl/TeK85PThPNHdzGKB7): Annual street party in Vancouver, if you are here early for the weekend before the conference.
 - You can make the journey to **Richmond** (or spend time there before your flight, as it is much closer to the airport).
-    - You can do some shopping, or try some of the great Asian restuarants there. Easy places to eat are ff (these places don't serve your typical food court food) although there are many other sit-down restaurants worth checking out as well. Things are a little cheaper, but many places here only take cash
-    - You can also check out the[Richmond Night Market](https://maps.app.goo.gl/EJ4AuPNuXrxSL2QS8). Note that this place is considered to be very overpriced, but can make for a memorable experience.
-    - To prevent confusion for transit: southbound trains alternate between going towards Richmond ("Richmond Brighouse") and towards the airport ("YVR Airport"). They split at the Bridgeport station.
+  - You can do some shopping, or try some of the great Asian restuarants there. Easy places to eat are ff (these places don't serve your typical food court food) although there are many other sit-down restaurants worth checking out as well. Things are a little cheaper, but many places here only take cash
+  - You can also check out the[Richmond Night Market](https://maps.app.goo.gl/EJ4AuPNuXrxSL2QS8). Note that this place is considered to be very overpriced, but can make for a memorable experience.
+  - To prevent confusion for transit: southbound trains alternate between going towards Richmond ("Richmond Brighouse") and towards the airport ("YVR Airport"). They split at the Bridgeport station.
 
 ### Touching grass
 
 NOTE: Parks located in Vancouver (surprisingly) have a closing time. Unless otherwise posted, parks/beaches are only open between 6:00 - 22:00.
+
 - [Stanley Park](https://maps.app.goo.gl/TJcxzK11uSz6g3eNA): One of Vancouver's biggest local attractions. Bordered on all sides by the ocean, Stanley Park also contains Vancouvers’ Aquarium. Note that this closes surprisingly early at 17:30.
 - [VanDusen Botanical Garden](https://maps.app.goo.gl/n2Vjdw5YMgogAdaT9)
 - [Queen Elizabeth Park](https://maps.app.goo.gl/oHVZZwTgYzYYsgZ17): There are tons of flora here, and you can get a view of downtown Vancouver. This is also where the banquet is happening on Thursday.
@@ -68,12 +69,13 @@ NOTE: Parks located in Vancouver (surprisingly) have a closing time. Unless othe
 - Richmond has [Aberdeen Center Food Court](https://maps.app.goo.gl/aXg7SbCE3m9WSegy8)/[Richmond Public Market](https://maps.app.goo.gl/mypkUZXYtMpxtMtu6) (see above, bring cash).
 - If you are interested, you can check out some of the [Michelin star restaurants](https://guide.michelin.com/ca/en/british-columbia/ca-vancouver/restaurants?sort=distance) of Vancouver.
 - Vegan/vegetarian friendly places (these have multiple locations)
-    - [Vegan Shoku Japanese Restaurant](https://maps.app.goo.gl/tkyv2W726CPh1VcN7) (highly recommend)
-    - [Chickpea Restaurant](https://maps.app.goo.gl/VwpfmbLqXihffmVC6)
-    - [MeeT on Main](https://maps.app.goo.gl/WuhJwcn8frwBzYiAA)
-    - [Nuba in Kitsilano](https://maps.app.goo.gl/YeVa9mtBbPoFtfKq5)
+  - [Vegan Shoku Japanese Restaurant](https://maps.app.goo.gl/tkyv2W726CPh1VcN7) (highly recommend)
+  - [Chickpea Restaurant](https://maps.app.goo.gl/VwpfmbLqXihffmVC6)
+  - [MeeT on Main](https://maps.app.goo.gl/WuhJwcn8frwBzYiAA)
+  - [Nuba in Kitsilano](https://maps.app.goo.gl/YeVa9mtBbPoFtfKq5)
 
 ### 24/7
+
 - All of these places are in University Village: McDonalds, A&W, Subway
 - [Breka Bakery & Café - Kitsilano](https://maps.app.goo.gl/CU7hY4mDVn84FteN6): 24/7 cafe that is iconic among UBC students for being so. They have pretty pastries.
 
@@ -90,7 +92,6 @@ NOTE: Parks located in Vancouver (surprisingly) have a closing time. Unless othe
 - The legal drinking age, and legal age to consume cannabis in British Columbia is 19.
 - Purchasing these requires 2 pieces of government ID (one has to be a photo ID).
 - Substances are not permitted inside UBC buildings. Otherwise, Vancouver is pretty liberal with their restrictions (e.g. see [here](https://vancouver.ca/parks-recreation-culture/alcohol-in-parks.aspx) and [here](https://www2.gov.bc.ca/gov/content/safety/public-safety/cannabis/whats-legal) under Public use).
-
 
 ## Transportation
 
@@ -109,10 +110,10 @@ There are certain “express” buses which should take you to most destinations
 - Taxi/Uber is about $35-40 to UBC Vancouver campus. It is, however, cheaper than this often.
 - Compass cards can be bought from the Skytrain station at YVR airport; these machines are also used to load money onto the compass cards.
 - The most convenient transit route to UBC campus from the airport is to take the Skytrain Canada Line to Oakridge-41st Avenue station, and take the “R4 41st Avenue to UBC” until the end of the line. NOTE: TransLink charges an additional $5 on top of the usual transit fee for transit rides leaving YVR.
-    - This intersection can sometimes be confusing, as there is another R4 going the other direction and getting out of the train station can be disorientating. Make sure the bus you get on says “UBC” at the top.
-    - Experiment (we haven't tried this before): If you intend to take transit to get to UBC from the airport, and you are arriving on **Monday**, the cheapest option (excluding the cost of the Compass Card) is to buy the Compass Card from one of the vending machines and load a day pass on it online, since you are likely transiting back and forth from the Beach BBQ later that day, and this avoids the extra YVR fee. The crucial step is to get the day pass online, otherwise if you get it from the compass machine, you will still be charged the YVR fee.
+  - This intersection can sometimes be confusing, as there is another R4 going the other direction and getting out of the train station can be disorientating. Make sure the bus you get on says “UBC” at the top.
+  - Experiment (we haven't tried this before): If you intend to take transit to get to UBC from the airport, and you are arriving on **Monday**, the cheapest option (excluding the cost of the Compass Card) is to buy the Compass Card from one of the vending machines and load a day pass on it online, since you are likely transiting back and forth from the Beach BBQ later that day, and this avoids the extra YVR fee. The crucial step is to get the day pass online, otherwise if you get it from the compass machine, you will still be charged the YVR fee.
 - The most convenient transit route to the airport is taking the “R4 41st Avenue to Joyce station” to Oakridge-41st Avenue station, and taking the Skytrain Canada Line to YVR airport.
-    - Southbound trains alternate between going to “Richmond Brighouse” and “YVR Airport”, although their route is mostly the same, before splitting off at “Bridgeport” station. Unsurprisingly, only one of these routes will take you to your desired destination, but watch out for this.
+  - Southbound trains alternate between going to “Richmond Brighouse” and “YVR Airport”, although their route is mostly the same, before splitting off at “Bridgeport” station. Unsurprisingly, only one of these routes will take you to your desired destination, but watch out for this.
 - The trains close around midnight, but the N17 and N10 are night buses that should be able to get you from the airport to UBC (although, note the N17 ends service around 3:00).
 
 ### Driving
