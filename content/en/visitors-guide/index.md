@@ -5,7 +5,7 @@ date = 2024-03-20T18:16:46-07:00
 
 ## Things to Do
 
-*Vancouver is a city that shuts down very early. Most places usually be closed much earlier than you would expect, pretty much nothing is open by midnight, so check closing times beforehand.*
+*Vancouver is a city that shuts down very early. Most places usually close much earlier than you would expect, pretty much nothing is open by midnight, so check closing times beforehand.*
 
 ### Fun Things to Do in UBC
 
@@ -21,7 +21,8 @@ date = 2024-03-20T18:16:46-07:00
 ### Fun things to do in Vancouver
 
 - [Vancouver Aquarium](https://maps.app.goo.gl/PUrMcmrbctmDpukQA)
-- [Vancouver Art Gallery](https://maps.app.goo.gl/Eq25qMnZy4CrF88W6) [Granville Island](https://maps.app.goo.gl/TQoBYhFqcd1QyizD7): This place is considered as a bit of a tourist trap, but it has some nice food, and the views are great.
+- [Vancouver Art Gallery](https://maps.app.goo.gl/Eq25qMnZy4CrF88W6)
+- [Granville Island](https://maps.app.goo.gl/TQoBYhFqcd1QyizD7): This place is considered as a bit of a tourist trap, but it has some nice food, and the views are great.
 - [Khatsahlano Street Party](https://maps.app.goo.gl/TeK85PThPNHdzGKB7): Annual street party in Vancouver, if you are here early for the weekend before the conference.
 - You can make the journey to **Richmond** (or spend time there before your flight, as it is much closer to the airport).
   - You can do some shopping, or try some of the great Asian restuarants there. Easy places to eat are ff (these places don't serve your typical food court food) although there are many other sit-down restaurants worth checking out as well. Things are a little cheaper, but many places here only take cash
